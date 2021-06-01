@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bmainock
+- 👀 I’m interested in machine learning and entry level computer science positions
+- 🌱 I’m currently learning full stack developement, cloud development, python machine learning algos
+- 💞️ I’m looking to collaborate on begineer to intermediate level projects based in cloud devlopment or machine learning
+- 📫 How to reach me my email is mainockb@gmail.com
