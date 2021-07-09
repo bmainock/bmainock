@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cloud development (AWS), python machine learning, and webRTC
 - 💞️ I’m looking to collaborate on web-app design and user interface philosphy
 - 📫 My email is mainockb@gmail.com
-- Sololearn, LinusTechTips, and Fireship.io fan 4 life
+- Papers We Love is an amazing youtube channel I recommend for anyone in IT, computer science, or programming
 
 
 End of the day I am just a very passionate computer science grad looking for a shot to prove myself.
